@@ -13,8 +13,8 @@ Deve ser possível exportar os dados de um prontuário em um arquivo CSV.
 
 Deve ser possível importar os dados de um csv para um prontuário.
 
-Uma conta médica é composta por
- - Internação(Opcional): Onde deve estar informado o tipo de leito e a quantidade de dias 
+Uma conta médica é composta por pelo menos um dos itens abaixo:
+ - Internação: Onde deve estar informado o tipo de leito e a quantidade de dias 
  - Procedimentos: Lista de procedimentos com seu tipo (Básico, Intermediário e Avançado)
 
 ### Regras
